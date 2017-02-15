@@ -1,0 +1,10 @@
+.container {
+  padding: 20px;
+}
+
+.initFunc {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 24px;
+  margin: 10px 20px;
+}
